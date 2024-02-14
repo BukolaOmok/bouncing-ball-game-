@@ -6,7 +6,7 @@ Welcome to the Bouncing Ball Game, an interactive canvas-based web game where ex
 
 - **Dynamic Canvas Gameplay**: Experience the seamless movement of balls bouncing off the edges of your screen, each with its unique color and velocity.
   
-- **Interactive Evil Circle**: Take control of the Evil Circle with simple keyboard commands. Navigate the canvas to "eat" the bouncing balls by colliding with them.
+- **Interactive Evil Circle**: Take control of the Evil Circle with simple keyboard commands (with the arrow keys). Navigate the canvas to "eat" the bouncing balls by colliding with them.
   
 - **Real-Time Ball Count**: Keep track of how many balls are currently bouncing around the screen with a dynamically updated count. Watch as the count decreases each time the Evil Circle captures a ball.
   
