@@ -100,4 +100,6 @@ class Ball {
 
         requestAnimationFrame(loop);
         }
-        loop();
+loop();
+        
+
