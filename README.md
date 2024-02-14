@@ -29,4 +29,4 @@ Playing the Bouncing Ball Game is straightforward. Follow these steps to get sta
 1. **Clone the Repository**: Clone the game repository from GitHub to your local machine.
    
    ```bash
-   git clone https://github.com/YourGitHubUsername/bouncing-ball-game.git
+   git clone https://github.com/BukolaOmok/bouncing-ball-game.git
