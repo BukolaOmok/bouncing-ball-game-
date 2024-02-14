@@ -16,7 +16,7 @@ Welcome to the Bouncing Ball Game, an interactive canvas-based web game where ex
 
 ## How to Play
 
-1. **Navigate the Evil Circle**: Use the `W` (up), `A` (left), `S` (down), and `D` (right) keys on your keyboard to move the Evil Circle across the canvas.
+1. **Navigate the Evil Circle**: Use the `arrow up` (up), `arrow left` (left), `arrow down` (down), and `arrow right` (right) keys on your keyboard to move the Evil Circle across the canvas.
   
 2. **Capture the Balls**: Collide with the bouncing balls to "eat" them. Each ball captured will disappear from the canvas, decrementing the on-screen ball count.
   
